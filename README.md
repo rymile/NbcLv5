@@ -6,7 +6,6 @@
 회원가입: localhost:3002/api/signup <br>
 로그인: localhost:3002/api/login <br>
 로그아웃: localhost:3002/api/logout <br>
-유저 정보 확인: localhost:3002/api/users/userId <br>
 게시글 등록: localhost:3002/api/posts <br>
 게시글 전체조회: localhost:3002/api/posts <br>
 게시글 수정: localhost:3002/api/posts/postId <br>
